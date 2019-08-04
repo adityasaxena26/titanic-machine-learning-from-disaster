@@ -17,3 +17,11 @@ The titanic dataset contains data of 891 passengers. There are 11 features prese
 *   Fare: Fare paid by the passenger
 *   Cabin Cabin number of the passenger (Some entries contain NaN)
 *   Embarked: Port of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+### Softwares and Libraries
+
+* [Python 2.7 or higher](www.python.org)
+* [Jupyter Notebook](http://ipython.org/notebook.html)
+* [Scikit-learn](https://pypi.org/project/scikit-learn/)
+* [NumPy](https://pypi.org/project/numpy/)
+* [Pandas](https://pypi.org/project/pandas/)
