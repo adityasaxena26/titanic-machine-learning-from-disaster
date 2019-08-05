@@ -25,3 +25,15 @@ The titanic dataset contains data of 891 passengers. There are 11 features prese
 * [Scikit-learn](https://pypi.org/project/scikit-learn/)
 * [NumPy](https://pypi.org/project/numpy/)
 * [Pandas](https://pypi.org/project/pandas/)
+
+### How to get the project files
+1. Clone the repository and navigate to the downloaded folder.
+
+```
+git clone https://github.com/adityasaxena26/titanic-survival-exploration.git
+cd titanic-survival-exploration
+```
+2. Run the following to open up the Jupyter notebook server:
+`jupyter notebook`
+
+3. In the browser, open the notebook ```titanic_survival_model.ipynb```
